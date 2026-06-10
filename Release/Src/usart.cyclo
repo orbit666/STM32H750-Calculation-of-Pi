@@ -1,0 +1,2 @@
+../Src/usart.c:4:6:USART1_Init	1
+../Src/usart.c:30:5:__io_putchar	2

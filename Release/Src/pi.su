@@ -1,0 +1,4 @@
+../Src/pi.c:254:12:bn_div_word_top_rec	64	static
+../Src/pi.c:254:12:bn_div_word_top_rec.constprop	32	static
+../Src/pi.c:171:12:bn_add_top.constprop	48	static
+../Src/pi.c:387:6:pi_compute	88	static
